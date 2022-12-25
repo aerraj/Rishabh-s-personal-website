@@ -1,0 +1,99 @@
+body{
+    text-align: center;
+    margin: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+.top{
+    background-color: #E4F9F5;
+    margin: 0px;
+    position: relative;
+    padding-top: 100px;
+    height:100%;
+    color: #11999E;
+}
+h1{
+    font-size: 5.625rem;
+    margin:0;
+
+    color: #11999E;
+    
+}
+h2{
+    font-size: 2.5rem;
+    font-weight: normal;
+}
+
+h3{
+    color: #11999E;
+}
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 10%;
+}
+.bottom{
+    background-color: rgb(37, 183, 169);
+    margin-bottom: 0px;
+    padding: 10px;
+
+}
+.pro{
+    text-decoration: underline;
+}
+.topcloud{
+    position: absolute;
+    right: 150px;
+    top:50px;
+    }
+    .dp{
+        margin-top: 30px;
+        border-radius: 100%;
+    }
+.bottomcloud{
+    position: absolute;
+    left: 150px;
+    bottom:300px;
+}
+
+.skill-row{
+    padding: 10px;
+    width: 75%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+
+}
+.btn {
+    background: #395B64;
+    border-radius: 16px;
+    font-family: 'Montserrat', sans-serif;
+    color: #fafafa;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+.btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+}
+a{
+    color: #11999E;
+}
+
+.dev{
+    float: left;
+    width:25%;
+    margin-right: 30px;
+}
+.Techstack{
+width: 25%;
+float: right;
+margin-left: 30px;
+}
